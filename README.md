@@ -1,4 +1,8 @@
 # site_test
-this is a test 
 
-# Test
+Learning about markdown
+
+## Functionalities: 
+
+reinforcing knowledge is beautiful,
+and learning new things is incredible
