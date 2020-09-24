@@ -40,8 +40,8 @@ update 2 etc
 
 ## Test
 
-```
-function sum(a +b) {
+```javascript
+function sum(a + b) {
     return a + b;
 }
 ´´´
