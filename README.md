@@ -17,3 +17,11 @@ update 2 etc
 
 * HTML
 * Markdown
+
+### Functionalities to develop
+
+1. update in code;
+   1. in new clients 
+   2. discount
+2. update in readme
+3. put repository open-source
