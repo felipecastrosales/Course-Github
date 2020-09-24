@@ -40,11 +40,7 @@ update 2 etc
 
 ## Test
 
-```javascript
-function sum(a + b) {
-    return a + b;
-}
-´´´
+its simple test
 
 ## Lists
 
