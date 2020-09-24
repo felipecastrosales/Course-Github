@@ -25,3 +25,7 @@ update 2 etc
    2. discount
 2. update in readme
 3. put repository open-source
+
+### 
+
+![JavaScript](img/javascript.jpg)
